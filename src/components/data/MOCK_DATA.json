@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,  
+        "titulo": "Gamer",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio": 136.72,
+        "genero": "Aventura",
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "titulo": "Inherit the Wind",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 318.02,
+        "genero": "Drama",
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "titulo": "Burrowers, The",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio": 91.80,
+        "genero": "Comedia",
+        "stock": 10
+    },
+    {
+        "id": 4,
+        "titulo": "Pool of London",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 256.27,
+        "genero": "Drama",
+        "stock": 10
+    },
+    {
+        "id": 5,
+        "titulo": "Pretty Sweet",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 156.77,
+        "genero": "Aventura",
+        "stock": 10
+    },
+    {
+        "id": 6,
+        "titulo": "Brighton Rock",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 241.84,
+        "genero": "Drama",
+        "stock": 10
+    },
+    {
+        "id": 7,
+        "titulo": "Bitter Sweet",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 130.16,
+        "genero": "Romance",
+        "stock": 10
+    },
+    {
+        "id": 8,
+        "titulo": "Dangerous Man, A",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 93.65,
+        "genero": "Romance",
+        "stock": 10
+    },
+    {
+        "id": 9,
+        "titulo": "Line of Sight",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 285.30,
+        "genero": "Romance",
+        "stock": 10
+    },
+    {
+        "id": 10,
+        "titulo": "The Skinny",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 247.84,
+        "genero": "Romance",
+        "stock": 10
+    },
+    {
+        "id": 11,
+        "titulo": "Sex: The Annabel Chong Story",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 243.91,
+        "genero": "Romance",
+        "stock": 10
+    },
+    {
+        "id": 12,
+        "titulo": "Let it Come Down: The Life of Paul Bowles",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 104.00,
+        "genero": "Aventura",
+        "stock": 10
+    },
+    {
+        "id": 13,
+        "titulo": "All I Desire",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 172.52,
+        "genero": "Drama",
+        "stock": 10
+    },
+    {
+        "id": 14,
+        "titulo": "Hostel: Part II",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 206.99,
+        "genero": "Comedia",
+        "stock": 10
+    },
+    {
+        "id": 15,
+        "titulo": "Red Obession",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 104.51,
+        "genero": "Comedia",
+        "stock": 10
+    },
+    {
+        "id": 16,
+        "titulo": "Robinson Crusoe (Daniel Defoe's Robinson Crusoe)",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 271.53,
+        "genero": "Aventura",
+        "stock": 10
+    },
+    {
+        "id": 17,
+        "titulo": "Hot Lead and Cold Feet",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio": 270.00,
+        "genero": "Comedia",
+        "stock": 10
+    },
+    {
+        "id": 18,
+        "titulo": "Dead Times (Temps morts, Les)",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 274.26,
+        "genero": "Comedia",
+        "stock": 10
+    },
+    {
+        "id": 19,
+        "titulo": "Volunteers",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio": 292.45,
+        "genero": "Comedia",
+        "stock": 10
+    },
+    {
+        "id": 20,
+        "titulo": "Delicacy (La délicatesse)",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 245.17,
+        "genero": "Romance",
+        "stock": 10
+    },
+    {
+        "id": 21,
+        "titulo": "Funny Girl",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio": 219.86,
+        "genero": "Drama",
+        "stock": 10
+    },
+    {
+        "id": 22,
+        "titulo": "Kon-Tiki",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 181.47,
+        "genero": "Aventura",
+        "stock": 10
+    },
+    {
+        "id": 23,
+        "titulo": "Once in a Lifetime: The Extraordinary Story of the New York Cosmos",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 293.73,
+        "genero": "Aventura",
+        "stock": 10
+    },
+    {
+        "id": 24,
+        "titulo": "Gorillas in the Mist",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 319.48,
+        "genero": "Drama",
+        "stock": 10
+    },
+    {
+        "id": 25,
+        "titulo": "Eyes Wide Shut",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 204.19,
+        "genero": "Drama",
+        "stock": 10
+    },
+    {
+        "id": 26,
+        "titulo": "Seventh Continent, The (Der siebente Kontinent)",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 155.62,
+        "genero": "Drama",
+        "stock": 10
+    },
+    {
+        "id": 27,
+        "titulo": "Feast III: The Happy Finish",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 264.36,
+        "genero": "Romance",
+        "stock": 10
+    },
+    {
+        "id": 28,
+        "titulo": "Driving Lessons",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 232.58,
+        "genero": "Drama",
+        "stock": 10
+    },
+    {
+        "id": 29,
+        "titulo": "Ichi the Killer (Koroshiya 1)",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 306.86,
+        "genero": "Aventura",
+        "stock": 10
+    },
+    {
+        "id": 30,
+        "titulo": "Drones",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 336.67,
+        "genero": "Comedia",
+        "stock": 10
+    }
+]
